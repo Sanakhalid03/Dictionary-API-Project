@@ -38,7 +38,7 @@ nav {
   font-size: 18px;
   border-radius: 4px;
 }
-.searchBar .searchBtn {
+.searchBar #searchBtn {
   width: 80px;
   background-color: orange;
   color: white;
@@ -46,7 +46,7 @@ nav {
   border-radius: 4px;
   border: none;
 }
-.searchBar .searchBtn:hover{
+.searchBar #searchBtn:hover{
   cursor:pointer;
 }
 .text {
